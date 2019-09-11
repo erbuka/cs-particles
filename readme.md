@@ -2,7 +2,7 @@
 
 Rendering millions of particles using OpenGL Compute Shader
 
-![Screenshot](https://github.com/erbuka/particles/blob/master/screenshot.jpg)
+![Screenshot](https://github.com/erbuka/cs-particles/blob/master/screenshot.jpg)
 
 ## Building
 
